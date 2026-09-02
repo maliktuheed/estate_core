@@ -28,7 +28,7 @@ A simple and responsive real estate website built with React and Vite.
 Clone the project:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/maliktuheed/estate_core.git
 ```
 
 Go to the project folder:
@@ -43,11 +43,6 @@ Install dependencies:
 npm install
 ```
 
-Create a `.env` file:
-
-```env
-VITE_WEB3FORMS_ACCESS_KEY=your_access_key
-```
 
 Run the project:
 
@@ -63,4 +58,4 @@ npm run build
 
 ## Author
 
-TA
+Tuheed Ahmed
